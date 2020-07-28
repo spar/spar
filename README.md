@@ -3,7 +3,11 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/spar)
 ![GitHub followers](https://img.shields.io/github/followers/spar?style=social)
 
-&nbsp;
+<img width="40%" align="right" alt="Github" src="https://github.com/spar/spar/blob/master/programmer.jpg" />
+
+I am a Full-Stack Lead and solution architect with more than a decade of IT experience. Helping customers find their way to the best solution and deliver amazing experiences and softwares.
+
+
 **Tech Stack**
 
 <code><img  width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></code>
@@ -27,5 +31,9 @@
 - 👯 I’m looking to collaborate on [Selfhosted Azure Pipelines](https://github.com/spar/azpipeagents)
 - 🤔 I’m looking for **a mentor for Xamarin**
 - 💬 Ask me about **C#, .Net, Azure**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/sandeep-parekh)
+- 📫 How to reach me: [Site](https://sparekh.com) | [LinkedIn](https://linkedin.com/in/sandeep-parekh)
 
+
+**Atrribution**
+
+<a href="https://www.freepik.com/free-photos-vectors/technology">Technology vector created by stories - www.freepik.com</a>

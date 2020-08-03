@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/spar)
 ![GitHub followers](https://img.shields.io/github/followers/spar?style=social)
 
-<img width="40%" align="right" alt="Github" src="https://github.com/spar/spar/blob/master/developer.png" />
+<img width="50%" align="right" alt="Github" src="https://github.com/spar/spar/blob/master/developer.png" />
 
 I am a Full-Stack Lead and solution architect with more than a decade of IT experience. Helping customers find their way to the best solution and deliver amazing experiences and softwares.
 

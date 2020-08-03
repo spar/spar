@@ -32,8 +32,3 @@ I am a Full-Stack Lead and solution architect with more than a decade of IT expe
 - 🤔 I’m looking for **a mentor for Xamarin**
 - 💬 Ask me about **C#, .Net, Azure**
 - 📫 How to reach me: [Site](https://sparekh.com) | [LinkedIn](https://linkedin.com/in/sandeep-parekh)
-
-
-**Atrribution**
-
-<a href="https://www.freepik.com/free-photos-vectors/technology">Technology vector created by stories - www.freepik.com</a>

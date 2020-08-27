@@ -1,4 +1,4 @@
-## Hi, I am Sandeep Parekh, a developer from Australia 🌏🦘
+## Hi, I am Sandeep, a developer from Australia 🌏🦘
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/spar)
 ![GitHub followers](https://img.shields.io/github/followers/spar?style=social)

@@ -5,7 +5,7 @@
 
 <img width="50%" align="right" alt="Github" src="https://github.com/spar/spar/blob/master/developer.png" />
 
-I am a Full-Stack Lead and solution architect with more than a decade of IT experience. Helping customers find their way to the best solution and deliver amazing experiences and softwares.
+A Full-Stack Lead and Solution Architect with more than a decade of IT experience. Helping customers find their way to the best solution and deliver amazing experiences and softwares.
 
 
 **Tech Stack**
@@ -24,11 +24,4 @@ I am a Full-Stack Lead and solution architect with more than a decade of IT expe
 <code><img  width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img  width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 
-
-**About me**
-- 🔭 I’m currently working on [Selfhosted Azure Pipelines](https://github.com/spar/azpipeagents) | [Fake REST server](https://github.com/spar/FakeRest)
-- 🌱 I’m currently learning about **Mobile App development on Xamarin**
-- 👯 I’m looking to collaborate on [Selfhosted Azure Pipelines](https://github.com/spar/azpipeagents)
-- 🤔 I’m looking for **a mentor for Xamarin**
-- 💬 Ask me about **C#, .Net, Azure**
-- 📫 How to reach me: [Site](https://sparekh.com) | [LinkedIn](https://linkedin.com/in/sandeep-parekh)
+📫 How to reach me: [Site](https://sparekh.com) | [LinkedIn](https://linkedin.com/in/sandeep-parekh)

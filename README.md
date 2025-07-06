@@ -23,5 +23,3 @@ A Full-Stack Lead and Solution Architect with more than a decade of IT experienc
 <code><img  width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img  width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img  width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-
-📫 How to reach me: [Site](https://sparekh.com) | [LinkedIn](https://linkedin.com/in/sandeep-parekh)
